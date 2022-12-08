@@ -5,7 +5,7 @@
 
 
 - What is Wp-Lk-Sincrypt p@id Version System  ?
-> This is locker which can lock unlimitly number wp only.
+> This is locker which can lock unlimitedly number wp only.
 > Many times you just want to annoy or play a prank on your friends.
 > If you find yourself in that situation then this WpLock is the perfect tool for you!
 > You can send unlimited Lock to anyone. This awesome app works with every operator/carrier.
