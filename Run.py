@@ -10,7 +10,7 @@ try:
     import pyzipper
     import colorama
 except ImportError:
-    _ = os.system('pip install pyzipper' if os.name == 'nt' else 'pip3 install pyzipper')
+    _ = os.system('pip install colorama' if os.name == 'nt' else 'pip3 install colorama')
     _ = os.system('pip install pyzipper' if os.name == 'nt' else 'pip3 install pyzipper')
 import pyzipper
 import sys
